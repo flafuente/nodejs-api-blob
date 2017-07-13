@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-api-blob",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "^2.83.0",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "s3-uploader": "^2.0.3"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
